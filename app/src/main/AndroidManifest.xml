@@ -10,10 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FirstApp">
         <service
-            android:name=".MyService"
+            android:name=".firstService"
             android:enabled="true"
-            android:exported="true">
-        </service>
+            android:exported="true"></service>
 
         <activity
             android:name=".MainActivity2"

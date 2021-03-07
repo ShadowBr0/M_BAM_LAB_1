@@ -1,0 +1,12 @@
+com/example/firstapp/firstService.java
+ com.example.firstapp.firstService
+com/example/firstapp/MainActivity2.java
+ com.example.firstapp.MainActivity2
+com/example/firstapp/MainActivity.java
+ com.example.firstapp.AppDatabase
+ com.example.firstapp.Counter
+ com.example.firstapp.CounterDao
+ com.example.firstapp.MainActivity
+ com.example.firstapp.NumberReceiver
+com/example/firstapp/BuildConfig.java
+ com.example.firstapp.BuildConfig
